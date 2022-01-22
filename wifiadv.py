@@ -85,7 +85,7 @@ while 1==1 :
                     os.system(code3)
 
 
-                if bash == 2 :
+                if bash3 == 2 :
                     code4= "airmon-ng stop "+adapter+"mon" 
                     os.system(code1)
 
@@ -94,6 +94,8 @@ while 1==1 :
 
 
 
+
+#hacmin
 
 
 
